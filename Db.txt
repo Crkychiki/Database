@@ -1,2 +1,4 @@
-Cryskyy:321
-Qazy:123
+Cryskyy:321<permanent>
+Dede : 123<permanent>
+Wulan : 123<permanent>
+Dummy : 1999<30Day>
